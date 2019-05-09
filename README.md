@@ -33,3 +33,5 @@
     如果有紧急事件可联系作者或加Q群：
     - Q号： 309933706
     - Q群： 246231638
+    
+    [![](https://jitpack.io/v/sheep0704/TestJitPack.svg)](https://jitpack.io/#sheep0704/TestJitPack)

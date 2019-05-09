@@ -11,7 +11,7 @@
     - 代码编译run
     - 查看是否通过，通过则可以直接放入自己代码库
     
- 
+    <br/>
  
   * 放入代码库步骤
   
@@ -21,13 +21,13 @@
     - 如果jitpack上红色日志代表失败，可以重新clean-rebuild一下，如果绿色则是可以使用的，BUILD SUCCESSFUL in 6s
     - 直接在项目上引用，Tag代表版本号--> implementation 'com.github.sheep0704:TestJitPack:Tag'
     - 项目编译是否通过
-    
+    <br/>
     
    
 
 ![image](https://github.com/sheep0704/TestJitPack/blob/master/app/src/main/res/mipmap-xxxhdpi/dayin.png)
 
-
+<br/>
 
 ## 联系
     如果有紧急事件可联系作者或加Q群：

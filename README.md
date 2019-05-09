@@ -11,7 +11,6 @@
     - 代码编译run
     - 查看是否通过，通过则可以直接放入自己代码库
     
-![image](https://github.com/sheep0704/TestJitPack/blob/master/app/src/main/res/mipmap-xxxhdpi/dayin.png)
  
  
   * 放入代码库步骤
@@ -25,6 +24,9 @@
     
     
    
+
+![image](https://github.com/sheep0704/TestJitPack/blob/master/app/src/main/res/mipmap-xxxhdpi/dayin.png)
+
 
 
 ## 联系

@@ -2,7 +2,8 @@
 
 * JitPack 测试通过
 
-   免费提供给有需要的同学 测试环境和jitpack .[![](https://jitpack.io/v/sheep0704/TestJitPack.svg)](https://jitpack.io/#sheep0704/TestJitPack)
+   免费提供给有需要的同学 测试环境和jitpack .
+   => [![](https://jitpack.io/v/sheep0704/TestJitPack.svg)](https://jitpack.io/#sheep0704/TestJitPack)
     
    
   * Test步骤

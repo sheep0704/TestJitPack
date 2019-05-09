@@ -2,4 +2,4 @@
 
 * JitPack 测试通过
 
-  '给不通过的同学测试环境和jitpack
+   免费提供给 测试环境和jitpack

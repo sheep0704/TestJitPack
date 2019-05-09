@@ -20,7 +20,7 @@ public class JitPackUtils {
         Log.i(TAG,"Version 1.0");
     }
 
-    @androidx.annotation.NonNull
+
     @Override
     public String toString() {
         return super.toString();
